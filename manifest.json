@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T20:35:35Z",
+  "generated_at": "2026-10-08T23:27:30Z",
   "current": {
     "season": 2026,
     "week": 5,
     "phase": "lock",
-    "sha256": "41aff6e5e75d48aaca5de43e9cbfd1e7327bf53ecff6d0958af7d9d1ea356aa3",
-    "built_at": "2026-10-08T20:34:02Z",
+    "sha256": "95d11f2ea6b3be1d2f26a0e6af98e9d38c2ccb47287a6c019b021745115a0bed",
+    "built_at": "2026-10-08T23:24:33Z",
     "model_version": "gridiron_v1",
     "n_games": 15,
     "n_players": 828
